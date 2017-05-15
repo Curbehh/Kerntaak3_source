@@ -1,0 +1,99 @@
+#Titel {
+
+    color: black;
+    text-align: center;
+
+}
+
+#Aanmelden {
+
+    color: black;
+    text-align: right;
+
+}
+
+#Registreren {
+
+    color: black;
+    text-align: right;
+
+}
+
+#Banner {
+
+    text-align: center;
+
+}
+
+#Info {
+
+    width: auto 25%;
+    height: 50px;
+    text-align: center;
+
+}
+
+#Conferenties {
+
+    width: auto 15px;
+    height: 100px;
+    text-align: center;
+
+}
+
+#Contact {
+
+    margin-top: 20%;
+    text-align: center;
+
+}
+
+#Pages {
+
+    width: auto 25%;
+    height: 50px;
+    text-align: center;
+    
+}
+
+#Aanmelden_formulier, #registreren_formulier {
+    
+    text-align: center;
+    
+}
+
+#Conferentie_reserveren, #conferentie_reserveren_bevestigen, #conferentie_reserveren_prijzen, {
+
+    text-align: center;
+
+}
+
+#Aanmelden_spreker, #Spreker_worden {
+    
+    text-align: center;
+    
+}
+
+#aanmelden_slot, #Slot_aanvraag_doen, #Slot_aanvraag_beoordelen {
+    
+    text-align: center;
+    
+}
+
+#Organisatorpagina_links {
+    
+    text-align: center;
+    
+}
+
+#slot_tags_toevoegen, #Converentie_overzicht, #Conferentie_reserveren, #conferentiedropdowndiv {
+    
+    text-align: center;
+    
+}
+
+#Slots_overzicht, #Slotsdropdowndiv, #newTicket, #Reserveringannuleren {
+    
+    text-align: center;
+    
+}
